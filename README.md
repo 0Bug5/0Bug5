@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zacks
-- 👀 I’m interested in Programming, Networking, Penetration Testing, Bug bounty Hunting, and Solving Puzzles.
+- 👀 I’m interested in Programming, Networking, Penetration Testing, Bug bounty Hunting, Reverse Engineering and Solving Puzzles.
 - 🌱 I’m currently learning Machine Learning and Networking.
 - 💞️ I’m looking to collaborate with professional developers
 - 📫 How to reach me Alajizacks@protonmail.com
