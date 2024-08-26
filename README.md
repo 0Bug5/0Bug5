@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zacks
 - 👀 I’m interested in Programming, Networking, Penetration Testing, Bug bounty Hunting, Reverse Engineering and Solving Puzzles.
-- 🌱 I’m currently learning Machine Learning and Networking.
+- 🌱 I’m currently learning nodejs and react.
 - 💞️ I’m looking to collaborate with professional developers
 - 📫 How to reach me Alajizacks@protonmail.com
 - 😄 Pronouns: We Do What We Want Becouse We Can.
